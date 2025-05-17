@@ -22,7 +22,7 @@
 
 ### 🎞 게임 화면 (GIF)
 <p align="center">
-  <img src="images/magicsanta.gif" width="600"/>
+  <img src="images/magicSanta.gif" width="600"/>
 </p>
 
 ---
